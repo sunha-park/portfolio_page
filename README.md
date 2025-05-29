@@ -1,70 +1,155 @@
-<p align="center">
-  <h1 align="center">Developer's Portfolio ✨</h1>
+## 😉  안녕하세요 박선하입니다.
 
-  <p align="center">
-Profolio는 개발자를 위한, 쉽고 빠르게 제작 할 수 있는 정적 포트폴리오 템플릿 입니다. <br/>Github 페이지로 호스팅 됩니다. <br/>웹 사이트는 <a href="https://congchu.github.io/web-porfolio/">DEMO</a>에서 확인하실 수 있습니다.
-  <br/>
-  <br/> 더 많은 템플릿은 <a href="https://github.com/congchu/portfolio-collection" >portfolio-collection</a> 저장소에서 보실 수 있습니다.
-    <br/>
-    <br/>
-    <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C"/>
-    <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/>
-    <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
-  <br/>
-  <br/>
-  <img src="https://github.com/congchu/web-porfolio/blob/main/demo/20210428.gif?raw=true"/>
-</p>
+> 저는 ***팀과 함께 문제를 해결하며 최적의 결과를 이끌어내는 것을 좋아합니다.*** <br />
+> 6개월간 개인 및 팀 프로젝트를 진행하며 풀스택 개발자 역량을 길렀고, 일련의 과정들을 ***영상***으로 기록했습니다. <br />
+> 프로젝트 진행 과정에서 예상치 못한 변수가 발생할 때마다 문제를 함께 해결해 나가는 과정을 통해 신뢰를 쌓았고, <br />
+> 팀원들로부터 ***계속 함께 일하고 싶은 사람***이라는 말을 들어왔습니다.
+&nbsp; 
+&nbsp; 
+> - 이메일 : sunha9240@gmail.com
+> - 블로그 : https://sunha0813.tistory.com/
+> - 유튜브 : https://www.youtube.com/channel/UCus_uDMJM0NvKRXMa1R9yaw
 
-## Overview ⭐️
+&nbsp; 
 
-- static website로 Github pages 활용한 웹 호스팅 가능
-- 개발자 맞춤형 포트폴리오 웹 페이지
-- 제작자 표기 시, 무료로 활용가능
+## 📝Projects
 
-## Prerequisites 🍪
+### 1. 🛫 해외여행보험 챗봇 _(개인)_
 
-- PC에 git이 설치되어 있어야하며, Github 계정이 있어야 합니다.
-- HTML 문법을 몰라도 텍스트만 교체하여 활용 가능합니다.
-- HTML 문법을 알면 레이아웃이나 디자인을 변경할 수 있습니다.
-- CSS를 몰라도 제작 가능하지만, CSS에 친숙하다면 디자인도 자유롭게 변경할 수 있습니다.
+> **[개발기간]** <br />
+> 2024.10.21 ~10.29 (10일)
+> 
+> **[주요기능]** <br />
+> ① 성별,나이,여행기간 등 맞춤형 여행 보험 추천 <br />
+> ② **LLM, RAG** 시스템 챗봇 서비스 <br />
+>
+> **[FrontEnd]**  HTML, CSS <br />
+>
+> **[BackEnd]**  Python, Flask, GCP, MariaDB
+>
+> [프로젝트 상세 설명](https://github.com/sunha-park/TravelInsuranceChatbot/tree/main)
 
-## Setup And Deployment 🔧
+<br />
 
-1. 내 프로젝트로 Fork합니다.
-2. repository를 clone하여 로컬로 내려받습니다.
+### 2. 🏠 감정분석 부동산 챗봇 _(개인)_
 
-   ```
-   git clone {저장소URL}
-   ```
+> **[개발기간]** <br />
+> 2024.11.06 ~11.12 (7일)
+> 
+> **[주요기능]** <br />
+> ① 매물 정보 확인 서비스 <br />
+> ② 일정 및 메모 기록 서비스 <br />
+> ③ 메모 감정 분석 서비스 <br />
+> ② **LLM, RAG** 시스템 챗봇 서비스 <br />
+>
+> **[FrontEnd]**  HTML, CSS <br />
+>
+> **[BackEnd]**  Python, Flask, GCP, MariaDB
+>
+> [프로젝트 상세 설명](https://github.com/sunha-park/RealEstateChatbot/tree/master)
 
-3. 내용을 원하는대로 수정합니다.
-4. github commit & push 합니다.
+<br />
 
-```bash
-git commit -m 'initial project'
-git push - u origin master
-```
+### 3. 👨‍⚖️ 부동산 관련 법률 챗봇 _(개인)_
 
-6. github Settings에서 pages로 이동하여, Source를 main branch로 바꿔줍니다.
-7. publish 되었다는 URL로 접속하여 확인합니다 (시간이 좀 걸리니, 5분정도 기다려주세요)
+> **[개발기간]** <br />
+> 2024.11.18 ~11.22 (5일)
+> 
+> **[주요기능]** <br />
+> ① 로그인 및 회원가입 서비스 <br />
+> ② 부동산 관련 법률 **LLM, RAG** 시스템 챗봇 서비스 <br />
+>
+> **[FrontEnd]**  HTML, CSS <br />
+>
+> **[BackEnd]**  Python, Flask, GCP, MariaDB
+>
+> [프로젝트 상세 설명](https://github.com/sunha-park/LawChatbot/tree/main)
 
-## Documentation 📑
+<br />
 
-튜토리얼 문서는 [웹 포트폴리오 제작 튜토리얼](https://www.notion.so/cucus/85e3bec77d904f1fa282cec4756232c3)에서 확인해주세요.
+### 4. 📊 미세먼지 농도 예측 _(개인)_
 
-## Deploy History 🌳
+> **[개발기간]** <br />
+> 2024.12.02 ~ 12.06 (5일)
+> 
+> **[주요기능]** <br />
+> ① 관리자 페이지: 새롭게 업데이트된 데이터를 **LSTM** 학습 모델로 추가 학습 <br />
+> ② 홈 페이지: 미세먼지 실제/예측값 확인
+>
+> **[FrontEnd]** React, HTML, CSS
+>
+> **[BackEnd]**  Python, Flask, GCP, MariaDB
+>
+> [프로젝트 상세 설명](https://github.com/sunha-park/FineDustProject/tree/master)
 
-2021-12-28
+<br />
 
-- 지킬 셋팅 제거
-- 커스텀 도메인 연결 제거
-- 데모 사이트 및 이미지 경로 변경
+### 5. 📈 유니콘 기업 등극 가능성 예측 _(개인)_
 
-2021-04-22
+> **[개발기간]** <br />
+> 2024.12.09 ~ 12.13 (5일)
+> 
+> **[주요기능]** <br />
+> ① 기업 재무 데이터 수동 업로드, 엑셀 파일 업로드 <br />
+> ② LSTM 기반 유니콘 기업 등극 가능성 예측 <br />
+> ③ 데이터 시각화 및 결과 확인 <br />
+>
+> **[FrontEnd]**  React, HTML, CSS <br />
+>
+> **[BackEnd]**  Python, Flask, GCP, MariaDB
+>
+> [프로젝트 상세 설명](https://github.com/sunha-park/UnicornPredictProject/tree/master)
 
-- 전체 레이아웃 수정
-- header 사진 변경
+<br />
 
-2021-04-20
 
-- 프로젝트 생성
+### 6. 📦 WMS 물류창고관리 시스템  _(팀)_
+
+> **개발인원 5명**
+>
+> **[개발기간]** <br />
+> 2024.12.02 ~ (진행중)
+> 
+> **[주요기능]** <br />
+> ① 관리자: 입고,출고,재고,기자재 관리  <br />
+> ② 고객: 입고,출고 관리  <br />
+> ③ YoLo 기반 물류 바코드 인식 시스템
+>
+> **[FrontEnd]**  React, HTML, CSS <br />
+>
+> **[BackEnd]**  Python, Flask, GCP, MariaDB
+>
+> [프로젝트 상세 설명]()
+
+<br />
+<br />
+
+## 🎞 Youtube
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=o9qifqO63rU" title="챗봇/LLM/RAG/감정분석/부동산/메모일정관리">
+          <img align="center" src="https://github.com/sunha-park/myimages/blob/main/youtube/20250409_164751.png" width="300" alt-text="챗봇/LLM/RAG/감정분석/부동산/메모일정관리">
+        </a>
+      </td>
+      <td>
+        <a href="https://www.youtube.com/watch?v=4G4kfpR3Djg&t=2s" title="챗봇/LLM/RAG/해외여행보험">
+          <img align="center" src="https://github.com/sunha-park/myimages/blob/main/insurance/008.jpg" width="300" alt-text="챗봇/LLM/RAG/해외여행보험">
+        </a>
+      </td>
+      <td>
+        <a href="https://www.youtube.com/watch?v=IDgNXjgkNpg&t=3s" title="데이터분석/LSTM/미세먼지/웹개발">
+        <img align="center" src="https://github.com/sunha-park/myimages/blob/main/youtube/20250409_164701.png" width="300" alt-text="데이터분석/LSTM/미세먼지/웹개발">
+          </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+> <b><em><a href="https://www.youtube.com/@i_wannabe_drunk">영상 더보기</a></em></b>
+
+
+<br />
+<br />
+
+
